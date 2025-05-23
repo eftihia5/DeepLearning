@@ -60,5 +60,6 @@ Learning)**
 - **Unsupervised**: π.χ. autoencoders για συμπίεση/ανακατασκευή
 - **Reinforcement**: π.χ. για παιχνίδια ή ρομποτική.
 
-link του Google Colab: https://colab.research.google.com/drive/1KAE2F8eiwd8O9Ako1HQzjbMHoGCd1vIC#scrollTo=qsuwM4B1ft1d
+Google Colab Link: https://colab.research.google.com/drive/1KAE2F8eiwd8O9Ako1HQzjbMHoGCd1vIC#scrollTo=qsuwM4B1ft1d
+
 GitHub Link: https://github.com/eftihia5/DeepLearning/blob/main/4557_%CE%95%CE%A1%CE%93%CE%91%CE%A3%CE%99%CE%914_MNIST.ipynb
